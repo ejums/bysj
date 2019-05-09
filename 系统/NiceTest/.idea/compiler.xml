@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="com.nicetest.app.main" target="1.8" />
+      <module name="com.nicetest.app.test" target="1.8" />
+      <module name="com.nicetest.fliter.main" target="1.8" />
+      <module name="com.nicetest.fliter.test" target="1.8" />
+      <module name="com.nicetest.library.main" target="1.8" />
+      <module name="com.nicetest.library.test" target="1.8" />
+      <module name="com.nicetest.user.main" target="1.8" />
+      <module name="com.nicetest.user.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

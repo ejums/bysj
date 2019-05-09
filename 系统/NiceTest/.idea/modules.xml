@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NiceTest.iml" filepath="$PROJECT_DIR$/NiceTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.nicetest.app.iml" filepath="$PROJECT_DIR$/.idea/modules/com.nicetest.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.nicetest.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.nicetest.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.nicetest.app.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.nicetest.app.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.nicetest.library.iml" filepath="$PROJECT_DIR$/.idea/modules/com.nicetest.library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.nicetest.library.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.nicetest.library.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.nicetest.library.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.nicetest.library.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.nicetest.user.iml" filepath="$PROJECT_DIR$/.idea/modules/com.nicetest.user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.nicetest.user.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.nicetest.user.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.nicetest.user.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.nicetest.user.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nice-test/nice-test.iml" filepath="$PROJECT_DIR$/nice-test/nice-test.iml" />
+    </modules>
+  </component>
+</project>
